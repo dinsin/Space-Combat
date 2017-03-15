@@ -5,12 +5,20 @@ avoid obstacles, and attempt to out-maneuver your opponent.
 
 Controls:
 
+
 Player One:
+
 W - Thrust
+
 A - Rotate Counter-clockwise
+
 D - Rotate Clockwise
 
+
 Player Two:
+
 Up - Thrust
+
 Left - Rotate Counter-clockwise
+
 Right - Rotate Clockwise
